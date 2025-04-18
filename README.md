@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Joy Chuks-Nwosu
 
-### 🚀 Data Engineer | SQL | Python | Airflow | dbt | Azure | Data Governance Advocate
+### A Data Engineer | SQL | Python | Airflow | dbt | Azure | Data Governance Advocate
 
 I'm a results-driven Data Engineer with a strong foundation in analytics, automation, data governance, and cloud data platforms. With experience delivering high-impact data solutions in the banking and fintech sectors, I specialise in building scalable pipelines, implementing data quality frameworks, and enabling data-driven decision-making across enterprise teams.
 
 ---
 
-### 🔧 Tech Stack & Tools
+### My Tech Stack & Tools
 
 - **Languages**: Python, SQL (T-SQL, PL/SQL), TypeScript  
 - **Data Engineering**: Apache Airflow, dbt, PySpark, Azure Data Factory, SSIS, SSRS  
@@ -18,7 +18,7 @@ I'm a results-driven Data Engineer with a strong foundation in analytics, automa
 
 ---
 
-### 📊 What I Bring to the Table
+### What I Bring to the Table
 
 - 🔹 **Built and managed scalable ETL pipelines** using Airflow and Azure Data Factory to automate data ingestion and transformation from on-prem to cloud storage.
 - 🔹 **Designed data marts and reporting dashboards** that informed business decisions across multiple banking departments.
@@ -28,7 +28,7 @@ I'm a results-driven Data Engineer with a strong foundation in analytics, automa
 
 ---
 
-### 📁 Featured Projects
+### Featured Projects
 
 - 🛠 **Gender Prediction Model** – Engineered a deep learning pipeline using PySpark and XGBoost, trained on over 1M+ name-gender records from DWH.
 - 📦 **Cloud Migration Framework** – Led the transition of data assets from legacy systems to Azure Data Lake Gen2, improving performance and reducing costs.
@@ -36,7 +36,7 @@ I'm a results-driven Data Engineer with a strong foundation in analytics, automa
 
 ---
 
-### 📢 Let’s Connect
+### Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joychuksnwosu)
 - 📫 [Email](mailto:chuksivory@gmail.com)
