@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Joy Chuks-Nwosu
+# Hi, I'm Joy Chuks-Nwosu
 
-### A Data Engineer | SQL | Python | Airflow | dbt | Azure | Data Governance Advocate
+### Microsoft Certified Fabric Data Engineer | Skilled in SQL, PySpark, KQL  | Python | Airflow | dbt | Azure || Specializing in secure, scalable data ingestion & transformation solutions | Drafting Policies and A Data Governance Advocate | 
 
 I'm a results-driven Data Engineer with a strong foundation in analytics, automation, data governance, and cloud data platforms. With experience delivering high-impact data solutions in the banking and fintech sectors, I specialise in building scalable pipelines, implementing data quality frameworks, and enabling data-driven decision-making across enterprise teams.
 
