@@ -12,8 +12,9 @@ I'm a results-driven Data Engineer with a strong foundation in analytics, automa
 - **Data Engineering**: Apache Airflow, dbt, PySpark, Azure Data Factory, SSIS, SSRS  
 - **Databases**: PostgreSQL, MySQL, Oracle, SQL Server, Snowflake  
 - **Cloud Platforms**: Microsoft Azure (Data Lake Gen2, Synapse), GCP  
-- **Business Intelligence**: Power BI, Metabase, Looker  
-- **Version Control**: Git, GitHub  
+- **Business Intelligence**: Power BI, Metabase, Tableau  
+- **Version Control**: Git, GitHub
+- **Microsoft Certified**: Fabrics Data Engineer, Power BI Data analyst
 - **Other Tools**: PowerShell, PowerApps, Jupyter, Excel  
 
 ---
