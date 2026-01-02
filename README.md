@@ -1,7 +1,7 @@
 # Hi, I’m Joy Chuks-Nwosu 👋
 
 **Senior Analytics Engineer | Microsoft Certified Fabric Data Engineer**  
-**SQL • dbt • PySpark • Airflow • Azure • Power BI**  
+**SQL • dbt • PySpark • Airflow • Azure • Power BI • Kafka • Python**  
 *Designing trusted analytics layers, scalable transformations, and data products teams can rely on*
 
 ---
